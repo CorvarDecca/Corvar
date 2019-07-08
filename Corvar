@@ -1,0 +1,129 @@
+# SimC Addon 1.12.1
+# Requires SimulationCraft 820-01 or newer
+
+hunter="Corvar"
+level=120
+race=orc
+region=eu
+server=dentarg
+role=attack
+professions=leatherworking=152/enchanting=115
+talents=1223111
+spec=beast_mastery
+
+# azerite_essences=28:1/300573
+# azerite_essences_available=4:1/12:1/27:1/28:1
+
+head=,id=159398,bonus_id=5448/1587/4786/5420/4775,context=35,azerite_powers=211/193/22/14/13
+neck=,id=158075,bonus_id=6316/4932/4933/1578,context=11,azerite_level=54
+shoulder=,id=159393,bonus_id=5448/1587/4786/5421/4775,context=35,azerite_powers=211/366/31/85/13
+back=,id=165512,bonus_id=4800/1537/4786,context=6
+chest=,id=165540,bonus_id=4824/1537/4786/5419/4775,context=6,azerite_powers=211/562/31/85/13
+wrist=,id=158357,bonus_id=5010/40/1592/4784,context=35
+hands=,id=165531,bonus_id=4800/1537/4786,context=6
+waist=,id=165538,bonus_id=4799/1537/4784,context=5
+legs=,id=158341,gem_id=154126,bonus_id=5010/4802/40/1582/4783,context=35
+feet=,id=159363,gem_id=154126,bonus_id=5010/4802/1582/4783,context=35
+finger1=,id=158362,enchant_id=5942,bonus_id=5010/1587/4784,context=35
+finger2=,id=159461,enchant_id=5942,bonus_id=5010/1572/4786,context=16
+trinket1=,id=165579,bonus_id=4800/1537/4786,context=6
+trinket2=,id=165572,bonus_id=4800/1537/4786,context=6
+main_hand=,id=159643,enchant_id=5955,bonus_id=5010/1582/4783,context=35
+
+### Gear from Bags
+#
+# Bartered Vrykul Facemask (295)
+# head=,id=163864,context=11,azerite_powers=
+#
+# Dreadmire Shoulderguards (400)
+# shoulder=,id=157891,bonus_id=1592/4786/5418,context=28,azerite_powers=
+#
+# Pauldrons of Ancestral Vengeance (420)
+# shoulder=,id=165921,bonus_id=4824/1537/4786/5421/4775,context=6,azerite_powers=367/562/30/203/13
+#
+# High Tinker's Cape (415)
+# back=,id=165924,bonus_id=4800/1537/4786,context=6
+#
+# High Tinker's Cape (370)
+# back=,id=165924,bonus_id=4801/1492/4786,context=4
+#
+# Silverback Cloak (415)
+# back=,id=165513,bonus_id=4800/1537/4786,context=6
+#
+# Arc-Glass Bindings (410)
+# wrist=,id=159380,bonus_id=5010/1582/4783,context=35
+#
+# Sure-Grip Munition Handlers (410)
+# hands=,id=159390,bonus_id=5010/1582/4783,context=35
+#
+# Grips of Forsaken Sanity (410)
+# hands=,id=167839,bonus_id=4799/1532/4786,context=5
+#
+# Bite-Resistant Chain Gloves (410)
+# hands=,id=155892,bonus_id=5010/1582/4783,context=35
+#
+# Slimy Kelpweavers (420)
+# hands=,id=165546,bonus_id=4800/40/1542/4783,context=6
+#
+# Sure-Grip Munition Handlers (400)
+# hands=,id=159390,bonus_id=5010/1572/4786,context=16
+#
+# Contender's Dragonscale Belt (116)
+# waist=,id=85789
+#
+# Waistguard of Sanguine Fervor (415)
+# waist=,id=159402,bonus_id=5010/40/1582/5850/4784,context=35
+#
+# Insurgent's Scouring Chain (415)
+# waist=,id=167837,bonus_id=4799/1537/4783,context=5
+#
+# Dreadmire Legguards (405)
+# legs=,id=157890,bonus_id=4803/1597/4784,context=28
+#
+# Waders of the Infested (410)
+# feet=,id=159396,bonus_id=5010/1582/4783,context=35
+#
+# Azsh'ari Stormsurger Striders (400)
+# feet=,id=170373,bonus_id=6300/6289/1487/4786
+#
+# Shell-Kickers (410)
+# feet=,id=158356,bonus_id=5010/1582/4783,context=16
+#
+# Lightgrace Sabatons (415)
+# feet=,id=165533,bonus_id=4800/1537/4786,context=6
+#
+# Shell-Kickers (420)
+# feet=,id=158356,bonus_id=5010/1592/4784,context=16
+#
+# Boots of the Headlong Conqueror (410)
+# feet=,id=159371,bonus_id=5010/1582/4783,context=35
+#
+# Band of Multi-Sided Strikes (415)
+# finger1=,id=165565,enchant_id=5942,bonus_id=4800/1537/4786,context=6
+#
+# Lurker's Insidious Gift (410)
+# trinket1=,id=167866,bonus_id=4799/1532/4786,context=5
+#
+# Pocket-Sized Computation Device (404)
+# trinket1=,id=167555,gem_id=167556/168752,bonus_id=1476,context=11
+#
+# Azerokk's Resonating Heart (400)
+# trinket1=,id=159612,bonus_id=5010/1572/4786,context=16
+#
+# Galecaller's Boon (390)
+# trinket1=,id=159614,bonus_id=5005/1562/4783,context=35
+#
+# Harlan's Loaded Dice (405)
+# trinket1=,id=155881,bonus_id=5009/1577/4783,context=16
+#
+# Kimbul's Razor Claw (400)
+# trinket1=,id=165579,bonus_id=4799/1522/4786,context=5
+#
+# My'das Talisman (400)
+# trinket1=,id=158319,bonus_id=5010/41/1572/4786,context=16
+#
+# Captain's Diplomacy (410)
+# main_hand=,id=159130,bonus_id=5010/1582/4783,context=35
+
+# Stacks of reorigination array based on hidden quest completion
+# bfa.reorigination_array_stacks=1
